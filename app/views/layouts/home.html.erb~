@@ -1,0 +1,62 @@
+#
+<html lang="en">
+#
+  <head>
+#
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+#
+    <title>Galway Art by Cathy Hughes</title>
+#
+    <link rel="stylesheet" href="blueprint/screen.css" type="text/css" media="screen, projection">
+#
+  </head>
+#
+  <body>
+#
+ 
+#
+    <div class="container">
+#
+      <h1>Header</h1>
+#
+      <hr />
+#
+ 
+#
+      <div>
+#
+        First column here
+#
+      </div>
+#
+ 
+#
+      <div>
+#
+        Second column (main content)
+#
+      </div>
+#
+ 
+#
+      <div>
+#
+        Third column
+#
+      </div>
+#
+ 
+#
+      <hr />
+#
+      <div>Footer</div>
+#
+ 
+#
+    </div>
+#
+ 
+#
+  </body>
+#
+</html>

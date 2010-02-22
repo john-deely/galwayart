@@ -1,0 +1,11 @@
+class HomeController < ApplicationController
+  def personal
+  end
+
+  def gallary
+  end
+
+  def contact
+  end
+
+end
